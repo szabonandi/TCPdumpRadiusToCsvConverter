@@ -1,0 +1,1909 @@
+Mon Jun  8 14:43:47 2015
+	User-Name = "taki_mobil"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Start
+	Acct-Delay-Time = 0
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Event-Timestamp = "Jun  8 2015 14:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "8e1f2330fa4f0ee6"
+	Timestamp = 1433767427
+
+Mon Jun  8 14:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 90991
+	Acct-Output-Octets = 398616
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 14:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433768027
+
+Mon Jun  8 14:56:36 2015
+	User-Name = "elemer_mobil"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.7
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Start
+	Acct-Delay-Time = 0
+	Acct-Session-Id = "MT_HAAP02000000000000b11030283652"
+	Event-Timestamp = "Jun  8 2015 14:56:36 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "fe6e1c2645d47b68"
+	Timestamp = 1433768196
+
+Mon Jun  8 14:57:27 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.7
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Stop
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 0
+	Acct-Output-Octets = 0
+	Acct-Session-Id = "MT_HAAP02000000000000b11030283652"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 14:57:27 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "0afbcd9191ae3b64"
+	Timestamp = 1433768247
+
+Mon Jun  8 14:58:19 2015
+	User-Name = "elemer_mobil"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Start
+	Acct-Delay-Time = 0
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Event-Timestamp = "Jun  8 2015 14:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "b81c253c9a8c2b16"
+	Timestamp = 1433768299
+
+Mon Jun  8 15:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 91927
+	Acct-Output-Octets = 400319
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433768627
+
+Mon Jun  8 15:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 772
+	Acct-Output-Octets = 103
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433768899
+
+Mon Jun  8 15:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 95148
+	Acct-Output-Octets = 404294
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433769227
+
+Mon Jun  8 15:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 772
+	Acct-Output-Octets = 389
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433769499
+
+Mon Jun  8 15:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 95148
+	Acct-Output-Octets = 411744
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433769827
+
+Mon Jun  8 15:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 772
+	Acct-Output-Octets = 539
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433770099
+
+Mon Jun  8 15:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 95148
+	Acct-Output-Octets = 419422
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433770427
+
+Mon Jun  8 15:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 772
+	Acct-Output-Octets = 539
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433770699
+
+Mon Jun  8 15:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 95148
+	Acct-Output-Octets = 427223
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433771027
+
+Mon Jun  8 15:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 5984
+	Acct-Output-Octets = 5778
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433771299
+
+Mon Jun  8 15:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 119244
+	Acct-Output-Octets = 459129
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433771627
+
+Mon Jun  8 15:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 76385
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 15:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433771899
+
+Mon Jun  8 16:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 120336
+	Acct-Output-Octets = 465785
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433772227
+
+Mon Jun  8 16:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 76637
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433772499
+
+Mon Jun  8 16:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 121350
+	Acct-Output-Octets = 472493
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433772827
+
+Mon Jun  8 16:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 76793
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433773099
+
+Mon Jun  8 16:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 132419
+	Acct-Output-Octets = 491441
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433773427
+
+Mon Jun  8 16:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 76871
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433773699
+
+Mon Jun  8 16:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 133433
+	Acct-Output-Octets = 498292
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433774027
+
+Mon Jun  8 16:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 77375
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433774299
+
+Mon Jun  8 16:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 134622
+	Acct-Output-Octets = 505247
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433774627
+
+Mon Jun  8 16:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 77626
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433774899
+
+Mon Jun  8 16:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 151092
+	Acct-Output-Octets = 529412
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433775227
+
+Mon Jun  8 16:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 78023
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 16:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433775499
+
+Mon Jun  8 17:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 152106
+	Acct-Output-Octets = 536186
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433775827
+
+Mon Jun  8 17:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 80345
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433776099
+
+Mon Jun  8 17:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 158683
+	Acct-Output-Octets = 551172
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433776427
+
+Mon Jun  8 17:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 80659
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433776699
+
+Mon Jun  8 17:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 171067
+	Acct-Output-Octets = 571506
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433777027
+
+Mon Jun  8 17:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 80739
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433777299
+
+Mon Jun  8 17:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 172159
+	Acct-Output-Octets = 578398
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433777627
+
+Mon Jun  8 17:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 81609
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433777899
+
+Mon Jun  8 17:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 178819
+	Acct-Output-Octets = 589691
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433778227
+
+Mon Jun  8 17:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 81843
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433778499
+
+Mon Jun  8 17:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 195435
+	Acct-Output-Octets = 613551
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433778827
+
+Mon Jun  8 17:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 82413
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 17:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433779099
+
+Mon Jun  8 18:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 196593
+	Acct-Output-Octets = 620970
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433779427
+
+Mon Jun  8 18:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 82884
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433779699
+
+Mon Jun  8 18:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 197782
+	Acct-Output-Octets = 627795
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433780027
+
+Mon Jun  8 18:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 83083
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433780299
+
+Mon Jun  8 18:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 217423
+	Acct-Output-Octets = 657234
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433780627
+
+Mon Jun  8 18:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 84146
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433780899
+
+Mon Jun  8 18:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 218437
+	Acct-Output-Octets = 664314
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433781227
+
+Mon Jun  8 18:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 84423
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433781499
+
+Mon Jun  8 18:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 219626
+	Acct-Output-Octets = 671922
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433781827
+
+Mon Jun  8 18:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 84737
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433782099
+
+Mon Jun  8 18:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 232352
+	Acct-Output-Octets = 693105
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433782427
+
+Mon Jun  8 18:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 84828
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 18:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433782699
+
+Mon Jun  8 19:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 238498
+	Acct-Output-Octets = 704234
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433783027
+
+Mon Jun  8 19:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 85306
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433783299
+
+Mon Jun  8 19:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 240046
+	Acct-Output-Octets = 711665
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433783627
+
+Mon Jun  8 19:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 86974
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433783899
+
+Mon Jun  8 19:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 252537
+	Acct-Output-Octets = 736112
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433784227
+
+Mon Jun  8 19:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 87231
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433784499
+
+Mon Jun  8 19:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 253726
+	Acct-Output-Octets = 743287
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433784827
+
+Mon Jun  8 19:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 87711
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433785099
+
+Mon Jun  8 19:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 254740
+	Acct-Output-Octets = 750530
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433785427
+
+Mon Jun  8 19:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 88261
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433785699
+
+Mon Jun  8 19:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 267310
+	Acct-Output-Octets = 772037
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433786027
+
+Mon Jun  8 19:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 88261
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 19:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433786299
+
+Mon Jun  8 20:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 268499
+	Acct-Output-Octets = 779345
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433786627
+
+Mon Jun  8 20:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 88508
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433786899
+
+Mon Jun  8 20:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 274923
+	Acct-Output-Octets = 790937
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433787227
+
+Mon Jun  8 20:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 88959
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433787499
+
+Mon Jun  8 20:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 285736
+	Acct-Output-Octets = 808999
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433787827
+
+Mon Jun  8 20:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 89069
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433788099
+
+Mon Jun  8 20:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 286925
+	Acct-Output-Octets = 815932
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433788427
+
+Mon Jun  8 20:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 89333
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433788699
+
+Mon Jun  8 20:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 290909
+	Acct-Output-Octets = 828993
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433789027
+
+Mon Jun  8 20:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 89618
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433789299
+
+Mon Jun  8 20:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 303916
+	Acct-Output-Octets = 867611
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433789627
+
+Mon Jun  8 20:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 90411
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 20:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433789899
+
+Mon Jun  8 21:03:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 305105
+	Acct-Output-Octets = 874250
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433790227
+
+Mon Jun  8 21:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 90967
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433790499
+
+Mon Jun  8 21:13:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 309586
+	Acct-Output-Octets = 883667
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433790827
+
+Mon Jun  8 21:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 91363
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433791099
+
+Mon Jun  8 21:23:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 327198
+	Acct-Output-Octets = 929097
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433791427
+
+Mon Jun  8 21:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 93884
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433791699
+
+Mon Jun  8 21:33:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 328290
+	Acct-Output-Octets = 935723
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433792027
+
+Mon Jun  8 21:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 93962
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433792299
+
+Mon Jun  8 21:43:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 329304
+	Acct-Output-Octets = 942501
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433792627
+
+Mon Jun  8 21:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 94222
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433792899
+
+Mon Jun  8 21:53:47 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 340542
+	Acct-Output-Octets = 964592
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433793227
+
+Mon Jun  8 21:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 94222
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 21:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433793499
+
+Mon Jun  8 22:03:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 341556
+	Acct-Output-Octets = 971056
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433793828
+
+Mon Jun  8 22:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 94300
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433794099
+
+Mon Jun  8 22:13:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 348231
+	Acct-Output-Octets = 983227
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433794428
+
+Mon Jun  8 22:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 95073
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433794699
+
+Mon Jun  8 22:23:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 363068
+	Acct-Output-Octets = 1004150
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433795028
+
+Mon Jun  8 22:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 95073
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433795299
+
+Mon Jun  8 22:33:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 364082
+	Acct-Output-Octets = 1011328
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433795628
+
+Mon Jun  8 22:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 95543
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433795899
+
+Mon Jun  8 22:43:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 365096
+	Acct-Output-Octets = 1018056
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433796228
+
+Mon Jun  8 22:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 98676
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433796499
+
+Mon Jun  8 22:53:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 377587
+	Acct-Output-Octets = 1038285
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433796828
+
+Mon Jun  8 22:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 99004
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 22:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433797099
+
+Mon Jun  8 23:03:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 378679
+	Acct-Output-Octets = 1045283
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:03:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433797428
+
+Mon Jun  8 23:08:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 99082
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:08:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433797699
+
+Mon Jun  8 23:13:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 383528
+	Acct-Output-Octets = 1055965
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:13:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433798028
+
+Mon Jun  8 23:18:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 99624
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:18:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433798299
+
+Mon Jun  8 23:23:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 394823
+	Acct-Output-Octets = 1076175
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:23:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433798628
+
+Mon Jun  8 23:28:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 99780
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:28:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433798899
+
+Mon Jun  8 23:33:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 399754
+	Acct-Output-Octets = 1086145
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:33:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433799228
+
+Mon Jun  8 23:38:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 100016
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:38:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433799499
+
+Mon Jun  8 23:43:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 400943
+	Acct-Output-Octets = 1093018
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:43:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433799828
+
+Mon Jun  8 23:48:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 100172
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:48:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433800099
+
+Mon Jun  8 23:53:48 2015
+	User-Name = "taki_dsl_p"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.12
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 409522
+	Acct-Output-Octets = 1111074
+	Acct-Session-Id = "MT_HAAP030000000000000d6cf6283648"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:53:47 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "3a48eb713547a3be"
+	Timestamp = 1433800428
+
+Mon Jun  8 23:58:19 2015
+	User-Name = "elemerA016_dsl"
+	NAS-IP-Address = 192.168.53.11
+	Framed-IP-Address = 78.92.255.8
+	NAS-Identifier = "MT_HAAP_INFOG"
+	Acct-Status-Type = Interim-Update
+	Acct-Delay-Time = 0
+	Acct-Input-Octets = 83790
+	Acct-Output-Octets = 101342
+	Acct-Session-Id = "MT_HAAP020000000000001db25e283653"
+	Acct-Input-Gigawords = 0
+	Acct-Output-Gigawords = 0
+	Event-Timestamp = "Jun  8 2015 23:58:19 CEST"
+	Framed-IP-Netmask = 255.255.255.255
+	Acct-Unique-Session-Id = "a4a559c8c5d03422"
+	Timestamp = 1433800699
+
